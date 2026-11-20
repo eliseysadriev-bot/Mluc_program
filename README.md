@@ -33,3 +33,5 @@ This is a personal learning project, and I'm writing the code myself.
 It may be simple right now, but I hope to make it more interesting over time.
 
 **Thanks for checking out Mluc!**
+
+<img width="296" height="172" alt="image" src="https://github.com/user-attachments/assets/22905d82-f1e1-4c06-b22f-99f0c15a4dc1" />
